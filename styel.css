@@ -225,6 +225,9 @@ nav a.link:hover{
     color: #cbc0e5;
   
 }
+.text-two{
+    line-height: 25px;
+}
 
 .inner-content-one h1{
     font-size: 40px;
