@@ -214,6 +214,9 @@ nav a.link:hover{
     display: flex;
     justify-content: center;
 }
+.learn a{
+    color: white;
+}
 .learn p:first-child{
     border-radius: 20px;
     background-color: #38335d;
